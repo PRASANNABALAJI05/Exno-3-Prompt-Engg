@@ -5,7 +5,8 @@ ChatGPT, Claude, Bard, Cohere Command, and Meta
 ### DATE: 22/04/2025                                                                            
 ### REGISTER NUMBER : 21222306203
  
-###Aim:
+Aim:
+---
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
 
 ### Algorithm:
@@ -97,29 +98,6 @@ Artificial Intelligence (AI) refers to the simulation of human intelligence in m
 | Meta (LLaMA 2)  | 3        | 3       | 4     | 3         | 13          |
 
 ---
-
-Let me know if you want this formatted as a PDF, or need help inserting screenshots or graphical charts.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Result:
 Thus the Prompting tools are executed and analysed sucessfully .
